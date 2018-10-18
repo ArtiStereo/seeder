@@ -2,6 +2,7 @@
     "name": "artistereo/yii2-seeder",
     "description": "I create this extension so that everyone can create their own seeder factory",
     "type": "yii2-extension",
+    "version": "1.0.3",
     "keywords": ["yii2","extension","seeder"],
     "license": "Apache-2.0",
     "authors": [
