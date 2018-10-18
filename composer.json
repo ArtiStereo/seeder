@@ -22,7 +22,7 @@
     "controllerMap": {
         "seeder": {
             "class": "artistereo\\seeder\\console\\SeederController"
-        },
+        }
     },
     "repositories":[
         {
