@@ -10,7 +10,6 @@
             "email": "artistereo69@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
     "require": {
         "yiisoft/yii2": "~2.0.0"
     },
@@ -21,7 +20,7 @@
     },
     "controllerMap": {
         "seeder": {
-            "class": "artistereo\\seeder\\console\\SeederController"
+            "class": "artistereo\\seeder\\console\\SeederController",
         },
     },
     "repositories":[
